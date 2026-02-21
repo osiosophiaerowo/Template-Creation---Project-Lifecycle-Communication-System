@@ -1,10 +1,10 @@
 # Template-Creation-Project-Lifecycle-Communication-System
 This repository showcases a structured client communication lifecycle system built using Gmail templates. The system standardizes interactions across all project stages — from inquiry and onboarding to project delivery and invoice follow-up — improving workflow clarity, consistency, and executive efficiency.
 
-# 📧 Client Communication Lifecycle System (Gmail Templates)
+# Client Communication Lifecycle System (Gmail Templates)
 **Executive Assistant Portfolio Project**
 
-## 🧾 Project Overview
+## Project Overview
 
 While working as an Executive Assistant at Apex Design Studio, I designed and implemented a structured Gmail template system that supported the full client journey — from initial inquiry to project completion and payment follow-up.
 
@@ -12,7 +12,7 @@ Instead of handling emails reactively, I created a standardized communication li
 
 ---
 
-# 🔄 The Client Communication Lifecycle
+# The Client Communication Lifecycle
 
 This system covers 6 key stages of the client journey:
 

@@ -1,5 +1,5 @@
 # Template-Creation-Project-Lifecycle-Communication-System
-This repository showcases a structured client communication lifecycle system built using Gmail templates. The system standardizes interactions across all project stages — from inquiry and onboarding to project delivery and invoice follow-up — improving workflow clarity, consistency, and executive efficiency.
+This repository showcases a structured client communication lifecycle system built using Gmail templates. The system standardizes interactions across all project stages - from inquiry and onboarding to project delivery and invoice follow-up - improving workflow clarity, consistency, and executive efficiency.
 
 # Client Communication Lifecycle System (Gmail Templates)
 **Executive Assistant Portfolio Project**
@@ -35,13 +35,17 @@ Impact:
 - Reduced unnecessary calls
 - Increased structured lead qualification
 
+***VISUAL REPRESENTATION***
+
+<img width="1032" height="481" alt="Template for meeting request" src="https://github.com/user-attachments/assets/5bdbd3ef-bd3a-4787-ab36-167e361fb631" />
+
 ---
 
 ## 2️⃣ Proposal Review Stage  
 ### Template: Proposal Deline Response
 
 Purpose:
-- Professionally decline projects outside budget
+- Professionally decline projects outside the budget
 
 What it does:
 - Communicates pricing boundaries clearly
@@ -51,6 +55,8 @@ What it does:
 Impact:
 - Preserved brand value
 - Avoided underpriced engagements
+
+  <img width="1059" height="479" alt="Template for declined proposal" src="https://github.com/user-attachments/assets/01fbfeb4-4458-4ec2-8ea9-b094407f44eb" />
 
 ---
 
@@ -73,6 +79,8 @@ Impact:
 - Improved project readiness
 - Faster transition into execution phase
 
+<img width="987" height="518" alt="Template for project onboarding" src="https://github.com/user-attachments/assets/cafb8cf9-c313-4b98-9fdc-4a4bd922e2bf" />
+
 ---
 
 ## 4️⃣ Project Execution Stage  
@@ -83,12 +91,14 @@ Purpose:
 
 What it does:
 - Reminds clients of pending assets
-- Explains impact of delays on timeline
+- Explains the impact of delays on set timeline
 - Encourages timely submissions
 
 Impact:
 - Reduced project bottlenecks
 - Improved timeline accountability
+
+<img width="1055" height="522" alt="Template for branding asset" src="https://github.com/user-attachments/assets/bf41de10-fbc3-4822-a225-c42013d03019" />
 
 ---
 
@@ -110,7 +120,10 @@ Impact:
 - Increased testimonial opportunities
 - Structured project closure process
 
+<img width="1062" height="584" alt="Template for project hand-off" src="https://github.com/user-attachments/assets/27236eac-c645-4f6a-b6d5-40cc5acfb5fc" />
+
 ---
+
 
 ## 6️⃣ Post-Project Financial Stage  
 ### Template: Overdue Invoice Reminder
@@ -126,6 +139,8 @@ What it does:
 Impact:
 - Improved payment follow-ups
 - Reduced delayed receivables
+
+<img width="973" height="482" alt="Template for overdue invoice" src="https://github.com/user-attachments/assets/db5b050c-b91d-4634-a6e9-9eee00a6f9dd" />
 
 ---
 

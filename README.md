@@ -35,7 +35,7 @@ Impact:
 - Reduced unnecessary calls
 - Increased structured lead qualification
 
-***VISUAL REPRESENTATION***
+***Visual Representation***
 
 <img width="1032" height="481" alt="Template for meeting request" src="https://github.com/user-attachments/assets/5bdbd3ef-bd3a-4787-ab36-167e361fb631" />
 
@@ -55,6 +55,8 @@ What it does:
 Impact:
 - Preserved brand value
 - Avoided underpriced engagements
+
+***Visual Representation***
 
   <img width="1059" height="479" alt="Template for declined proposal" src="https://github.com/user-attachments/assets/01fbfeb4-4458-4ec2-8ea9-b094407f44eb" />
 
@@ -79,6 +81,8 @@ Impact:
 - Improved project readiness
 - Faster transition into execution phase
 
+***Visual Representation***
+
 <img width="987" height="518" alt="Template for project onboarding" src="https://github.com/user-attachments/assets/cafb8cf9-c313-4b98-9fdc-4a4bd922e2bf" />
 
 ---
@@ -98,6 +102,7 @@ Impact:
 - Reduced project bottlenecks
 - Improved timeline accountability
 
+***Visual Representation***
 <img width="1055" height="522" alt="Template for branding asset" src="https://github.com/user-attachments/assets/bf41de10-fbc3-4822-a225-c42013d03019" />
 
 ---
@@ -120,6 +125,8 @@ Impact:
 - Increased testimonial opportunities
 - Structured project closure process
 
+***Visual Representation***
+
 <img width="1062" height="584" alt="Template for project hand-off" src="https://github.com/user-attachments/assets/27236eac-c645-4f6a-b6d5-40cc5acfb5fc" />
 
 ---
@@ -139,6 +146,8 @@ What it does:
 Impact:
 - Improved payment follow-ups
 - Reduced delayed receivables
+
+***Visul Representation***
 
 <img width="973" height="482" alt="Template for overdue invoice" src="https://github.com/user-attachments/assets/db5b050c-b91d-4634-a6e9-9eee00a6f9dd" />
 
